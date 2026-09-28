@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="fd1db4ebc1768305bf1bb6b61964bf8c">
+        <source>Account manager</source>
+        <target>Account manager</target>
+      </trans-unit>
+      <trans-unit id="d6fd899931cc956f27a63603fac027f0">
+        <source>Assigns an employee to a customer, shows their contact details on the account and lets the two write to each other.</source>
+        <target>Assigns an employee to a customer, shows their contact details on the account and lets the two write to each other.</target>
+      </trans-unit>
+      <trans-unit id="8b784a03d67a93691fa91fe9a0be2c9f">
+        <source>no account manager</source>
+        <target>no account manager</target>
+      </trans-unit>
+      <trans-unit id="bd50dfc5a27a1f9ba630eeb40119a50d">
+        <source>The employee looking after this customer. Their phone number is set in the module configuration.</source>
+        <target>The employee looking after this customer. Their phone number is set in the module configuration.</target>
+      </trans-unit>
+      <trans-unit id="b01638021aac977200ea6a01196ba2d1">
+        <source>Note for the customer</source>
+        <target>Note for the customer</target>
+      </trans-unit>
+      <trans-unit id="938e128b818fd602eebba75736662ecc">
+        <source>Shown to the customer on their account, under the account manager.</source>
+        <target>Shown to the customer on their account, under the account manager.</target>
+      </trans-unit>
+      <trans-unit id="de753870d24b7540a1004817729a437f">
+        <source>Search by manager</source>
+        <target>Search by manager</target>
+      </trans-unit>
+      <trans-unit id="bdea3bc8afceca6bf9092928adad80c9">
+        <source>Phone numbers saved.</source>
+        <target>Phone numbers saved.</target>
+      </trans-unit>
+      <trans-unit id="724f90b78745fd0e43612270cf4bcfd2">
+        <source>Account manager phone numbers</source>
+        <target>Account manager phone numbers</target>
+      </trans-unit>
+      <trans-unit id="e1a8a1e0a8536b4b125b58223397bc5b">
+        <source>PrestaShop has no phone field for employees, so it is set here and shown on the account of the customer they look after.</source>
+        <target>PrestaShop has no phone field for employees, so it is set here and shown on the account of the customer they look after.</target>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+      </trans-unit>
+      <trans-unit id="e174bb70d250cf198ede2dc26d84e0dc">
+        <source>Unknown customer.</source>
+        <target>Unknown customer.</target>
+      </trans-unit>
+      <trans-unit id="2006fd643f079d8af8f61b27b8a21888">
+        <source>Write something before sending.</source>
+        <target>Write something before sending.</target>
+      </trans-unit>
+      <trans-unit id="664b85dd2730ca2df04621e3fd8366d3">
+        <source>Messages with the account manager</source>
+        <target>Messages with the account manager</target>
+      </trans-unit>
+      <trans-unit id="ce26601dac0dea138b7295f02b7620a7">
+        <source>Customer</source>
+        <target>Customer</target>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+      </trans-unit>
+      <trans-unit id="5b9c4140e1765cf2179d513f927f5bf3">
+        <source>No messages yet.</source>
+        <target>No messages yet.</target>
+      </trans-unit>
+      <trans-unit id="7bc78024ddeccfa28991e248bf6938bb">
+        <source>Write to the customer</source>
+        <target>Write to the customer</target>
+      </trans-unit>
+      <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+        <source>Send</source>
+        <target>Send</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

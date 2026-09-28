@@ -1,0 +1,66 @@
+/*
+ * m4p_customermanager
+ *
+ * @author    Modules4Presta <contact@modules4presta.io>
+ * @copyright 2026 Nice Code sp. z o.o. (Modules4Presta)
+ * @license   https://opensource.org/licenses/MIT MIT License
+ */
+
+.m4p-manager-box { margin-bottom: 1rem; border: 1px solid #e0e4ea; border-radius: 8px; }
+.m4p-manager-box__title { margin: 0 0 .5rem; font-size: 1rem; font-weight: 700; }
+.m4p-manager-box__name { font-weight: 600; margin-bottom: .4rem; }
+.m4p-manager-box__contact { list-style: none; margin: 0; padding: 0; }
+.m4p-manager-box__contact li { display: flex; align-items: center; gap: .4rem; padding: .15rem 0; }
+.m4p-manager-box__contact i.material-icons { font-size: 18px; color: #264d8c; }
+
+/* Compact account-manager bar in the top menu */
+.m4p-manager-nav { display: inline-flex; align-items: center; gap: .35rem; font-size: .85rem; color: #444; line-height: 1.2; }
+.m4p-manager-nav > i.material-icons { font-size: 18px; color: #264d8c; }
+.m4p-manager-nav__label { color: #888; }
+.m4p-manager-nav__name { font-weight: 600; }
+.m4p-manager-nav__link { color: #264d8c; text-decoration: none; }
+.m4p-manager-nav__link:hover { text-decoration: underline; }
+.m4p-manager-nav__mail i.material-icons { font-size: 16px; }
+@media (max-width: 767px) {
+    .m4p-manager-nav__label { display: none; }
+}
+
+.m4p-manager-box__note {
+    margin: .75rem 0 0;
+    padding: .6rem .8rem;
+    background: #f6f8fa;
+    border-left: 3px solid #2e9c4d;
+    font-size: .95rem;
+}
+
+.m4p-manager-box__thread { margin-top: 1rem; }
+
+.m4p-thread {
+    list-style: none;
+    margin: 0 0 .75rem;
+    padding: 0;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.m4p-thread__item {
+    padding: .5rem .7rem;
+    margin-bottom: .4rem;
+    background: #f6f8fa;
+    border-radius: 6px;
+}
+
+.m4p-thread__item--mine { background: #e8f3ec; }
+
+.m4p-thread__meta {
+    display: block;
+    font-size: .8rem;
+    color: #777;
+    margin-bottom: .2rem;
+}
+
+.m4p-thread__text { display: block; }
+
+.m4p-thread__empty { color: #777; font-size: .9rem; }
+
+.m4p-thread__form textarea { margin-bottom: .5rem; }

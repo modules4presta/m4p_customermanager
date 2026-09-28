@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>m4p_customermanager</name>
+	<displayName><![CDATA[M4P Account Manager]]></displayName>
+	<version><![CDATA[2.0.0]]></version>
+	<description><![CDATA[Assigns an employee to a customer, shows their contact details on the account and lets the two write to each other.]]></description>
+	<author><![CDATA[Modules4Presta]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+</module>

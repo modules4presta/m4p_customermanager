@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="66dff4bc6149738292b7b2737e7e2e8c">
+        <source>Invalid security token.</source>
+        <target>Invalid security token.</target>
+      </trans-unit>
+      <trans-unit id="2006fd643f079d8af8f61b27b8a21888">
+        <source>Write something before sending.</source>
+        <target>Write something before sending.</target>
+      </trans-unit>
+      <trans-unit id="759f023d3a02250b2413a3dc53fffa10">
+        <source>Your account manager</source>
+        <target>Your account manager</target>
+      </trans-unit>
+      <trans-unit id="41de6d6cfb8953c021bbe4ba0701c8a1">
+        <source>Messages</source>
+        <target>Messages</target>
+      </trans-unit>
+      <trans-unit id="cae8d14edd025e72c59dbab6f378c95a">
+        <source>You</source>
+        <target>You</target>
+      </trans-unit>
+      <trans-unit id="5b9c4140e1765cf2179d513f927f5bf3">
+        <source>No messages yet.</source>
+        <target>No messages yet.</target>
+      </trans-unit>
+      <trans-unit id="662c4560eabcf9d9dc75441ed6426aa6">
+        <source>Write to your account manager</source>
+        <target>Write to your account manager</target>
+      </trans-unit>
+      <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+        <source>Send</source>
+        <target>Send</target>
+      </trans-unit>
+      <trans-unit id="3a130ea1168521914a5af9760871a55e">
+        <source>Account manager:</source>
+        <target>Account manager:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
